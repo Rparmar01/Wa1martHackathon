@@ -1,2 +1,2 @@
 # Wa1martHackathon
-<h>BlockChain that will provide security to online campus transactions</h>
+Basic version control for NittanyChain Blockchain product.
